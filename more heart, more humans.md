@@ -20,7 +20,7 @@ Inclusive Design is a powerful tool thing that will help you do this
 
 ---
 
-## Did anyone notice<br>something weird<br>on the stairs?<br>On the walls?
+## Did anyone notice<br>something weird<br>on the walls?
 
 ## **bit.ly/emplab301**
 
@@ -79,8 +79,7 @@ iOS
 
 ![fit](img/fortnite-gameplay.jpg)
 
-^ N: A shiny Swiss site.
-as someone designed it.
+^ N: as someone designed it.
 
 ---
 
@@ -141,7 +140,11 @@ Accessible
 - Responsive too!
 - What we'll see shortly is that all the shiny shit we add can limit people's abilities to use our stuff and therefore create barriers.
 
---- 
+---
+
+## Get ready to stand up…
+## 💃 🕺
+---
 
 ## Experienced this?
 ## Friend? 👯<br>Parent? 👵<br>Colleague? 👷
@@ -150,7 +153,6 @@ Accessible
 ![](img/people-with-disabilities.jpg)
 
 ^ N:
-- Explain how the process works.
 - We've got some examples of differing physical and cognitive  abilities up on those posters. Think about how you or someone you know might have experience of these.  Go up and draw a heart on any capabilities (or lack thereof) that are relevant to you.
 
 ---
@@ -276,7 +278,8 @@ lots of the disabilities are invisible. Won't show up in analytics or stats
 
 ^ More specifically
 WCAG Principles of accessibility
-Shout out
+
+^At the most basic level, users must be able to process and perceive information. They need to be able to operate websites and applications with a variety of tools. If users can perceive and operate a website, that doesn't mean they can understand it. Understandable websites use clear, concise language and offer functionality that is easy to comprehend. And users pick their own mix of technologies. Within limits, websites should be robust enough to work well-enough across platforms, browsers, and devices to account for personal choice and user need.
 
 ---
 
@@ -462,12 +465,11 @@ Maybe be familiar from before (barriers)
 <!-- ## Check without using<br>a mouse or trackpad -->
 ## Check with<br>different controls
 
-![](img/apple-wireless-keyboard.jpg)
+![](img/controller.jpg)
 
-<!-- NTODO: update notes -->
-<!-- NTODO: change pic to PC controller -->
-^ N: People with physical impairments (and power users!) use a keyboard instead of a mouse as it doesn’t require precise movements.
-If you tab through the elements on a webpage, can you move the cursor focus around in a sequence that makes sense?
+
+^ N: People with physical difficulties (and power users!) may use different controllers depending on their needs. Test your stuff. For example if designing a desktop game, test without a mouse - can users tab and navigate through your menus in a meaningful and sensible way? Are you catering for alternative controls?
+If you tab through the elements on a webpage, can you move the cursor focus around in a sequence that makes
 
 
 ---
