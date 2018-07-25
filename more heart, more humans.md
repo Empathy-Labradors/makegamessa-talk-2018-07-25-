@@ -292,7 +292,9 @@ WCAG Principles of accessibility
 
 ^ N: Inc design is also about good usability. We aren't making things that are "just pretty." We're making things that look good and work well. We want to get out of the way and let the user do what they came to do
 ^ UX paradox: if we've done our job well, our work becomes invisible.
-^ ? Talk about how this makes our job difficult
+^ If our game has crappy (or complex) controls, nobody will play it, no matter how pretty it looks
+Or a vomit-inducing overly-eager camera
+Let's not get started on VR!
 
 <!--
 ---
@@ -391,10 +393,8 @@ Here's why.
 ![](img/constraints.jpg)
 
 ^ S: If you can do a good job under hard constraints, that makes you a "whoa" and "dayyum" designer
-Shout out: some examples of constraints for the abilities activities over yonder
-Cognitive: plain language
-Physical: keyboard controls
-Visual: colour contrast
+// Shout out: some examples of constraints for the abilities activities over yonder
+Lead by design example, inspire others to do the same. This can be groundbreaking - the opposite of boring!
 
 <!--
 E.g. "Design me a website" is hard.
@@ -413,6 +413,8 @@ E.g. "Design me a website" is hard.
 We shouldn't just be designing a single version of a site that's just for a shiny portfolio
 We should be designing robust, flexible products for a messy, unpredictable world. (like the opening screenshots)
 Durable and flexible UX speaks volumes about our values - we're not just talking about user-centredness, we're demonstrating it too.
+Playing on an old handheld console? Or one with a cracked or scratched screen?
+Playing on an low-spec PC?
 
 ---
 
@@ -422,8 +424,9 @@ Durable and flexible UX speaks volumes about our values - we're not just talking
 ![](img/confidence.jpg)
 
 ^ S: And okay, maybe sometimes it is a little boring. Less shiny, less shouty.
-Confident enough to say "the right thing here isn't the shiny thing. It's the standard bit of UI. That's what's best for our users."
-Lead by design example, inspire others to do the same. This can be groundbreaking - the opposite of boring!
+// Confident enough to say "the right thing here isn't the shiny thing. It's the standard bit of UI. That's what's best for our users."
+Confident enough to say "the right thing here isn't the shiny "innovative" thing. It's the standard thing. That's what's best, and most fun, for our users."
+Not there to figure out our weird control system or how to use the menus. Here to play the game.
 This is one I still struggle with selling.
 
 ---
@@ -469,9 +472,13 @@ Maybe be familiar from before (barriers)
 ![](img/plain-language.jpg)
 
 ^ S: People’s home language can be different to the one your content is written in. People with cognitive difficulties like dyslexia struggle with long or complex content.
-Specifics: Readability / reading level, sentence length, paragraph length.
+Specifics: Readability / reading level, sentence length, paragraph length, words you use in the UI.
+
+<!--
 Story: Seen confusion with "address 1, address 2" vs "number and street, suburb".
-We'll share a link with you in a mo for plugins etc to help you test things.
+--> 
+
+^ We'll share a link with you in a mo for plugins etc to help you test things.
 With games, check the microcopy, especially. Labels for UI things.
 We'll share a link with you in a mo for plugins etc to help you test things.
 
@@ -504,8 +511,13 @@ Story: Gran and an example of her getting stuck.
 ^ S: People with visual disabilities need information that has sufficient colour contrast and information that isn’t represented only in colour.
 Anyone on a dodgy screen, or out in the sun
 Specifics: contrast ratio of background and text colours.
+
+<!--
 Story: UI Designer seeing the light grey on grey on an external monitor. Worked together to fix it.
-We'll give you links for some tools.
+
+-->
+
+^ We'll give you links for some tools.
 
 ---
 
