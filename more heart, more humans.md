@@ -8,7 +8,7 @@ Theme: Fira, 3
 
 ---
 
-## Disability is a spectrum, not a binary
+## Ability is a spectrum, not a binary
 
 ![](img/spectrum.jpg)
 
@@ -158,7 +158,7 @@ barriers: environmental, social, more
 
 ---
 
-## Disability is a spectrum, not a binary
+## Ability is a spectrum, not a binary
 
 ![](img/spectrum.jpg)
 
@@ -549,11 +549,11 @@ Small changes:
 
 ---
 
-## Disability is a spectrum, not a binary
+## Ability is a spectrum, not a binary
 
 ![](img/spectrum.jpg)
 
-^ N: Because disability is a spectrum, even small, iterative improvements will improve your stuff for people. It's ok to take many small steps in the right direction.
+^ N: Because ability is a spectrum, even small, iterative improvements will improve your stuff for people. It's ok to take many small steps in the right direction.
 
 ---
 
