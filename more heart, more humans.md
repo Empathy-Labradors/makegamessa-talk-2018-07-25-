@@ -5,7 +5,6 @@ Theme: Fira, 3
 ## More 💛, more humans
 
 <!-- TODO: make a bigger deal of overlapping disabilities? -->
-<!-- TODO: Use WHO's definition too? http://www.who.int/topics/disabilities/en/ -->
 
 ---
 
@@ -13,10 +12,10 @@ Theme: Fira, 3
 
 ![](img/spectrum.jpg)
 
-^ S: This will help you be a superhero to your users
+^ S: Most important thing from this talk
+This will help you be a superhero to your users / players
 It'll help you have more humans, on more devices and browsers, under more conditions
 Inclusive Design is a powerful tool thing that will help you do this
-(Dis)ability is a spectrum, like screen size is for responsive web design
 
 ---
 
@@ -41,7 +40,8 @@ It's some Inclusive Design myth-busting
 ![](img/rosie.jpg)
 
 ^
-S: That was us, in 2017, looking at some of things we’d designed and built.
+S: That was us, in 2017, looking at some of things we’d designed and built. Web sites and apps.
+We realised it wasn't our best work: it wasn't accessible. We'd made some bad assumptions.
 We got sad. Then we got angry. Then we rolled up our sleeves and got to work - we started thinking about how we could do our work better, and help other people to do the same.
 
 ---
@@ -110,8 +110,6 @@ but when our work is out in the world, yhu, it gets experienced in **a lot** of 
 
 ---
 
-
-
 ## **1. Disability as<br>a spectrum**
 ## 2. The What and the Why
 ## 3. The How
@@ -129,14 +127,16 @@ Functional capacity + Barrier
 (Barrier e.g.s come after the activity!)
 A Disability occurs when the product creates a barrier to access
 From a book called "A Web For Everyone"
+World Health Organisation: interaction between person’s body and their society
+barriers: environmental, social, more
 
 ---
 
 ![fit](img/firstwebsite.png)
 
 ^ N: This is the first web site, from 1991. Yeah, looks like shit, but it fucking works!
-- No barriers - no limitations to access/usage/functionality (i.e. no limits to people's abilities to use this site)
-Accessible
+- No barriers - no impairments, activity limitations, or participation restrictions (access/usage/functionality)
+- Accessible
 - Responsive too!
 - What we'll see shortly is that all the shiny shit we add can limit people's abilities to use our stuff and therefore create barriers.
 
@@ -144,9 +144,10 @@ Accessible
 
 ## Get ready to stand up…
 ## 💃 🕺
+
 ---
 
-## Experienced this?
+## **Experienced this?**
 ## Friend? 👯<br>Parent? 👵<br>Colleague? 👷
 ## **Draw a ❤**
 
@@ -163,6 +164,8 @@ Accessible
 
 ^ S: Thank you for your co-operation!
 Talk through the thing
+Show of hands for some of the popular ones
+Ask them to look around at all the hands up: lots of us!
 Permanent, Temporary, Contextual,
 Usually a human has more than one at a time
 
@@ -250,8 +253,9 @@ Any of these could create a barrier to access, to use
 
 ![](img/inclusive-design.jpg)
 
-^ S: Inc design = designing for the diversity of our users. Despite preconceptions we may have
-we have users with different abilities
+^ S: Inc design = designing for the diversity of our users.
+It's the process of making conscious decisions to check our assumptions about who is and isn't our audience,
+what abilities they have or don't have
 lots of the disabilities are invisible. Won't show up in analytics or stats
 (point at barriers activity)
 
@@ -268,9 +272,7 @@ lots of the disabilities are invisible. Won't show up in analytics or stats
 - Two sets of guidelines worth Googling: Web Content Accessibility Guidelines & Web Accessibility Initiative-Accessible Rich Internet Applications Suite
 - WCAG gives guidelines for AA- and AAA-level accessibility
 
-
 ---
-
 ## **P**erceivable
 ## **O**perable
 ## **U**nderstandable
@@ -279,7 +281,7 @@ lots of the disabilities are invisible. Won't show up in analytics or stats
 ^ More specifically
 WCAG Principles of accessibility
 
-^At the most basic level, users must be able to process and perceive information. They need to be able to operate websites and applications with a variety of tools. If users can perceive and operate a website, that doesn't mean they can understand it. Understandable websites use clear, concise language and offer functionality that is easy to comprehend. And users pick their own mix of technologies. Within limits, websites should be robust enough to work well-enough across platforms, browsers, and devices to account for personal choice and user need.
+^ At the most basic level, users must be able to process and perceive information. They need to be able to operate websites and applications with a variety of tools. If users can perceive and operate a website, that doesn't mean they can understand it. Understandable websites use clear, concise language and offer functionality that is easy to comprehend. And users pick their own mix of technologies. Within limits, websites should be robust enough to work well-enough across platforms, browsers, and devices to account for personal choice and user need.
 
 ---
 
@@ -290,6 +292,7 @@ WCAG Principles of accessibility
 
 ^ N: Inc design is also about good usability. We aren't making things that are "just pretty." We're making things that look good and work well. We want to get out of the way and let the user do what they came to do
 ^ UX paradox: if we've done our job well, our work becomes invisible.
+^ ? Talk about how this makes our job difficult
 
 <!--
 ---
@@ -309,7 +312,7 @@ and good design enhances agility.
 
 ^ Technical excellence is code that works for all your users
 Good design is unobtrusive, makes a product useful (Dieter Rams)
--->
+
 ---
 
 ## **❤ Inclusive Design**
@@ -317,10 +320,13 @@ Good design is unobtrusive, makes a product useful (Dieter Rams)
 
 ![](img/agilemanifesto.jpg)
 
-^S: quality meaning good
+^S: quality meaning technically good
 // “Build the thing right”
-Structural and Functional quality
-Pick up bugs earlier because you're testing more widely
+Structurally sound?
+Functionally sound?
+Is it ship-shape?
+
+-->
 
 ---
 
@@ -334,7 +340,8 @@ Pick up bugs earlier because you're testing more widely
 -->
 
 ## **❤ Inclusive Design**
-## helps us be a superhero
+## helps us be superheros
+#### (Wakanda Forever!)
 
 ![](img/superhero.jpg)
 
@@ -384,10 +391,16 @@ Here's why.
 ![](img/constraints.jpg)
 
 ^ S: If you can do a good job under hard constraints, that makes you a "whoa" and "dayyum" designer
+Shout out: some examples of constraints for the abilities activities over yonder
+Cognitive: plain language
+Physical: keyboard controls
+Visual: colour contrast
+
+<!--
 E.g. "Design me a website" is hard.
 "Design me a website for hamster fans" is easier.
 "Design me a website for coffee-drinking hamster fans in Cape Town." is easiest. Sort of.
-
+-->
 
 ---
 
@@ -411,6 +424,7 @@ Durable and flexible UX speaks volumes about our values - we're not just talking
 ^ S: And okay, maybe sometimes it is a little boring. Less shiny, less shouty.
 Confident enough to say "the right thing here isn't the shiny thing. It's the standard bit of UI. That's what's best for our users."
 Lead by design example, inspire others to do the same. This can be groundbreaking - the opposite of boring!
+This is one I still struggle with selling.
 
 ---
 
@@ -455,8 +469,11 @@ Maybe be familiar from before (barriers)
 ![](img/plain-language.jpg)
 
 ^ S: People’s home language can be different to the one your content is written in. People with cognitive difficulties like dyslexia struggle with long or complex content.
-^ With games, check the microcopy, especially. Labels for UI things.
-^ We'll share a link with you in a mo for plugins etc to help you test things.
+Specifics: Readability / reading level, sentence length, paragraph length.
+Story: Seen confusion with "address 1, address 2" vs "number and street, suburb".
+We'll share a link with you in a mo for plugins etc to help you test things.
+With games, check the microcopy, especially. Labels for UI things.
+We'll share a link with you in a mo for plugins etc to help you test things.
 
 ---
 
@@ -469,8 +486,12 @@ Maybe be familiar from before (barriers)
 
 
 ^ N: People with physical difficulties (and power users!) may use different controllers depending on their needs. Test your stuff. For example if designing a desktop game, test without a mouse - can users tab and navigate through your menus in a meaningful and sensible way? Are you catering for alternative controls?
-If you tab through the elements on a webpage, can you move the cursor focus around in a sequence that makes
 
+<!--
+If you tab through the elements on a webpage, can you move the cursor focus around in a sequence that makes
+Specifics: If you tab through the elements on a webpage, can you move the cursor focus around in a sequence that makes sense?
+Story: Gran and an example of her getting stuck.
+--->
 
 ---
 
@@ -482,7 +503,9 @@ If you tab through the elements on a webpage, can you move the cursor focus arou
 
 ^ S: People with visual disabilities need information that has sufficient colour contrast and information that isn’t represented only in colour.
 Anyone on a dodgy screen, or out in the sun
-We'll give you links for some tools
+Specifics: contrast ratio of background and text colours.
+Story: UI Designer seeing the light grey on grey on an external monitor. Worked together to fix it.
+We'll give you links for some tools.
 
 ---
 
@@ -548,7 +571,7 @@ We ran one in Cape Town last weekend
 ## **bit.ly/emplab-ten-at-ten**
 
 ^ N: Tomorrow at 10am spend 10 mins testing your stuff.
-pPick one thing that you can tweak and make better! We’ll post this link in the meetup.
+Pick one thing that you can tweak and make better! We’ll post this link in the meetup.
 It’s three short activities for the three checks we mentioned a moment ago. Pick one!
 Think of someone you (drew a heart for) stood up for at the beginning, choose the activity that's closest to them.
 
